@@ -1,0 +1,15 @@
+*.::: GEMPA BUMI TERKINI MAGNITUDO >= 5 :::.*
+
+*Waktu* : 29-Sep-19 14:40:18 WIB
+*Magnitudo* : 5.7 SR
+*Kedalaman* : 73 Km
+*Potensi* : tidak berpotensi TSUNAMI
+*Wilayah* :
+ - 180 km BaratLaut MELONGUANE-SULUT
+ - 255 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT
+ - 348 km TimurLaut ONDONG-KEP.SITARO-SULUT
+ - 500 km TimurLaut MANADO-SULUT
+ - 2559 km TimurLaut JAKARTA-INDONESIA
+*Koordinat* : 5.62 LU 126.61 BT
+
+Sumber data: [BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)](https://www.bmkg.go.id/)

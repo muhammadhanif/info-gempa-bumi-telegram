@@ -1,0 +1,5 @@
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+*/1 * * * * cd /opt/info-gempa-bumi-telegram/magnitudo-5 && /usr/bin/python3 /opt/info-gempa-bumi-telegram/magnitudo-5/magnitudo-5.py
+*/1 * * * * cd /opt/info-gempa-bumi-telegram/dirasakan && /usr/bin/python3 /opt/info-gempa-bumi-telegram/dirasakan/dirasakan.py

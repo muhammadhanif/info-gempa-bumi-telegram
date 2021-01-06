@@ -1,0 +1,12 @@
+
+    *GEMPA BUMI DIRASAKAN*
+
+    *Tanggal* : 01/10/2019-13:47:16 WIB
+    *Posisi* : 3.42 LS 128.37 BT
+    *Magnitudo* : 3
+    *Kedalaman* : 10 Km
+    *Keterangan* : Pusat gempa berada di darat 9 km Selatan Kairatu   
+    *Dirasakan* :  II	Kairatu,
+
+    Sumber data: [BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)](https://www.bmkg.go.id/)
+    
